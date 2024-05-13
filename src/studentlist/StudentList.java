@@ -19,7 +19,7 @@ public class StudentList {
         Student s1 = new Student();
         s1.setName("Simran kaur");
         Student s2 = new Student();
-        s2.setName("Rajvir");
+        s2.setName("Rajvir Singh ");
         Student s3 = new Student();
         s3.setName("Anmoldeep kaur");
         studentList[0]= s1;
